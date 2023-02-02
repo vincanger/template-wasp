@@ -1,0 +1,10 @@
+{
+  "name": "MyNewApp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "install": "curl -sSL https://get.wasp-lang.dev/installer.sh | sh",
+    "build": "wasp build",
+    "start": "wasp start"
+  }
+}
